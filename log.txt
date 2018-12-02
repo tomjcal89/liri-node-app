@@ -1,0 +1,95 @@
+
+
+
+    Venue: Green Note
+    Location: London, CA
+    Event Date: January 26, 2019
+            
+movie-this grinch
+
+
+    Title: How the Grinch Stole Christmas
+    Released: 2000
+    IMDB Rating: 6.1
+    Rotten Tomatos Rating: 52%
+    Country: USA, Germany
+    Language: English
+    Plot: On the outskirts of Whoville, there lives a green, revenge-seeking Grinch who plans on ruining the Christmas holiday for all of the citizens of the town.
+    Actors: Jim Carrey, Taylor Momsen, Kelley, Jeffrey Tambor
+            
+spotify-this-son natural
+
+spotify-this-song natural
+
+
+    Artist: Imagine Dragons
+    Track: Natural
+    Preview: null
+    Album: Origins (Deluxe)
+            
+concert-this taylor swift
+
+concert-this taylor
+
+concert-this taylor
+
+
+
+movie-this
+
+
+    Title: Mr. Nobody
+    Released: 2009
+    IMDB Rating: 7.9
+    Rotten Tomatos Rating: 67%
+    Country: Belgium, Germany, Canada, France, USA, UK
+    Language: English, Mohawk
+    Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+    Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+            
+movie-this sandlot
+
+movie-this grinch
+
+
+    Title: How the Grinch Stole Christmas
+    Released: 2000
+    IMDB Rating: 6.1
+    Rotten Tomatos Rating: 52%
+    Country: USA, Germany
+    Language: English
+    Plot: On the outskirts of Whoville, there lives a green, revenge-seeking Grinch who plans on ruining the Christmas holiday for all of the citizens of the town.
+    Actors: Jim Carrey, Taylor Momsen, Kelley, Jeffrey Tambor
+            
+spotify-this-song natural
+
+
+    Artist: Imagine Dragons
+    Track: Natural
+    Preview: null
+    Album: Origins (Deluxe)
+            
+spotify-this-song
+
+
+    Artist: Ace of Base
+    Track: The Sign
+    Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=e3da7a050abe4847b37d8756125097f4
+    Album: The Sign (US Album) [Remastered]
+            
+spotify-this-song all i want for christmas
+
+
+    Artist: Mariah Carey
+    Track: All I Want for Christmas Is You
+    Preview: https://p.scdn.co/mp3-preview/ab4f06069148ef8510d8681164479601d4617bed?cid=e3da7a050abe4847b37d8756125097f4
+    Album: Merry Christmas
+            
+spotify-this-song thank you, next
+
+
+    Artist: Ariana Grande
+    Track: thank u, next
+    Preview: null
+    Album: thank u, next
+            
