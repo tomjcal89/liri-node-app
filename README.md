@@ -15,7 +15,7 @@ To find information on a song:
 
 enter the folling into the command line:
 
-node liri.js concert-this <song name here>
+node liri.js spotify-this-song <song name here>
 
 ![alt text](images/spotify.png)
 
@@ -24,6 +24,6 @@ To find information on a movie:
 
 enter the folling into the command line:
 
-node liri.js concert-this <movie name here>
+node liri.js movie-this <movie name here>
 
 ![alt text](images/movie.png)
