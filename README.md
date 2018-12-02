@@ -26,4 +26,4 @@ enter the folling into the command line:
 
 node liri.js concert-this <movie name here>
 
-![alt text](images.png)
+![alt text](images/movie.png)
